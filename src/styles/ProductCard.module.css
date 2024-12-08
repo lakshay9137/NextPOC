@@ -1,0 +1,32 @@
+.card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .card h2 {
+    font-size: 1.2em;
+    margin: 0;
+  }
+  
+  .card p {
+    color: #666;
+  }
+  
+  .viewButton {
+    margin-top: 10px;
+    padding: 5px 10px;
+    color: white;
+    background-color: #0070f3;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .viewButton:hover {
+    background-color: #005bb5;
+  }
